@@ -24,8 +24,6 @@ Avance 4: Creación del Tablero y Documentación
 
 
 Resultados principales y líneas futuras de análisis
-Resultados Principales y Líneas Futuras de Análisis del Proyecto de Adventure Works Cycles
-Resultados Principales
 1.	Distribución de Ingresos por Región y Segmento de Producto:
 ●	Ingresos por País: Estados Unidos y Australia lideran en ingresos, lo que indica fuertes mercados en estas regiones. Esto se ve reflejado en el gráfico "Ingresos por país" donde Estados Unidos muestra un ingreso significativamente más alto en comparación con otros países.
 ●	Ingresos por Estado en EEUU: California y Washington son los estados más destacados en términos de ingresos, lo que podría reflejar una combinación de una base de clientes grande y un alto nivel de actividades de venta y marketing.
@@ -35,6 +33,9 @@ Resultados Principales
 ●	El análisis financiero mensual muestra un aumento constante en los ingresos y la utilidad bruta a lo largo del tiempo, con picos significativos que podrían coincidir con temporadas de ventas altas o lanzamientos de productos.
 4.	Eficiencia Operacional:
 ●	Los gráficos de "COGS %UB por Ciudad" muestran una estabilidad en los costos de los bienes vendidos a través de varias ciudades, lo que indica una gestión de costos eficiente en diferentes localidades.
+
+![image](https://github.com/VDaniela/integral-adventure-works/assets/157546842/1824b108-c91d-44e5-8154-31a7b19bddc3)
+
 Líneas Futuras de Análisis
 1.	Análisis Profundo de Segmentos Específicos:
 ●	Profundización en Bicicletas de Montaña y de Carretera: Dado que estas categorías son altamente rentables, un estudio más detallado sobre las preferencias del consumidor, el posicionamiento del producto, y estrategias de precios podría ayudar a maximizar aún más los ingresos y la rentabilidad.
