@@ -1,4 +1,4 @@
-# analisi-integral-adventure-works
+# analisis-integral-adventure-works
 Desarrollar un informe integral para Adventure Works Cycles (AWC) para mejorar la toma de decisiones a través de análisis detallados y visualizaciones interactivas de sus datos de ventas. El objetivo es comprender profundamente los factores que afectan las ventas, los costos y la rentabilidad de la empresa.
 
 
@@ -35,6 +35,8 @@ Resultados principales y líneas futuras de análisis
 ●	Los gráficos de "COGS %UB por Ciudad" muestran una estabilidad en los costos de los bienes vendidos a través de varias ciudades, lo que indica una gestión de costos eficiente en diferentes localidades.
 
 ![image](https://github.com/VDaniela/integral-adventure-works/assets/157546842/1824b108-c91d-44e5-8154-31a7b19bddc3)
+
+![image](https://github.com/VDaniela/integral-adventure-works/assets/157546842/cc657f82-4608-4831-8615-112c1a916c36)
 
 Líneas Futuras de Análisis
 1.	Análisis Profundo de Segmentos Específicos:
